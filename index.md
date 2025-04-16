@@ -1,3 +1,8 @@
+---
+layout: default
+show_view_on_github: false
+---
+
 # This is a test.
 
 ## A.  Test Content.
