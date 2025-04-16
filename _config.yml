@@ -2,3 +2,7 @@ title: Your Site Title
 description: A brief description of your site
 show_downloads: false
 theme: jekyll-theme-minimal
+github:
+  zip_url: https://github.com/yourusername/your-application/archive/refs/heads/main.zip
+  tar_url: https://github.com/yourusername/your-application/archive/refs/heads/main.tar.gz
+  repository_url: https://github.com/yourusername/your-application
